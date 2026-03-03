@@ -21,20 +21,20 @@ I love exploring datasets, building ML models, and experimenting with **AI-gener
 ### 1️⃣ Titanic Survival Analysis & ML
 - **Description:** Explored Titanic dataset, performed EDA, built ML models to predict survival.  
 - **Tech:** Python, Pandas, Matplotlib, Seaborn, scikit-learn  
-- **Highlights:** Cleaned messy data, visualized key insights, achieved [your accuracy]% accuracy  
-- **GitHub Link:** [Titanic Project](your-repo-link)
+- **Highlights:** Cleaned messy data, visualized key insights, achieved 0.81% accuracy  In SVM
+- **GitHub Link:** (https://github.com/Tarinis-Git/Tarinis-Git/blob/main/Model(titanic)ALL.ipynb
 
 ### 3️⃣ Zomato Segmentation using Clustering
 - **Description:** Segmented customers to identify patterns in buying behavior.  
 - **Tech:** Python, Pandas, scikit-learn, PCA  
 - **Highlights:** Unsupervised ML, actionable insights for marketing strategies  
-- **GitHub Link:** [[Clustering Project](your-repo-link)](https://github.com/Tarinis-Git/Tarinis-Git/blob/main/zomatoReview.ipynb)
+- **GitHub Link:** https://github.com/Tarinis-Git/Tarinis-Git/blob/main/zomatoReview.ipynb
 
 ### 4️⃣ Netflix Segmentation using Clustering
 - **Description:** Segmented customers to identify type of content recommendation
 - **Tech:** Python, Pandas, scikit-learn, PCA  
 - **Highlights:** Unsupervised ML, actionable insights for marketing strategies  
-- **GitHub Link:** [[Clustering Project](your-repo-link)](https://github.com/Tarinis-Git/Tarinis-Git/blob/main/zomatoReview.ipynb)
+- **GitHub Link:** https://github.com/Tarinis-Git/Tarinis-Git/blob/main/NETFLIX_ML_Tarini.ipynb
 
 ### 5️⃣ Generative AI Project – Coming soon......
 
