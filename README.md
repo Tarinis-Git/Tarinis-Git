@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi there 👋, I'm Tarini
 
-<!--
-**Tarinis-Git/Tarinis-Git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Data Scientist and Generative AI enthusiast** passionate about turning raw data into insights and building AI-powered solutions using **Python**.  
+I love exploring datasets, building ML models, and experimenting with **AI-generated content**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- **Languages:** Python  
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Plotly  
+- **Machine Learning:** scikit-learn (Regression, Classification, Clustering)  
+- **Generative AI:** OpenAI API, GPT models, Chatbots, Text & Image generation  
+- **Data Handling:** CSV, Excel, SQL basics  
+- **Others:** Jupyter Notebook, Git, GitHub  
+
+---
+
+## 📊 Projects
+
+### 1️⃣ Titanic Survival Analysis & ML
+- **Description:** Explored Titanic dataset, performed EDA, built ML models to predict survival.  
+- **Tech:** Python, Pandas, Matplotlib, Seaborn, scikit-learn  
+- **Highlights:** Cleaned messy data, visualized key insights, achieved [your accuracy]% accuracy  
+- **GitHub Link:** [Titanic Project](your-repo-link)
+
+### 3️⃣ Zomato Segmentation using Clustering
+- **Description:** Segmented customers to identify patterns in buying behavior.  
+- **Tech:** Python, Pandas, scikit-learn, PCA  
+- **Highlights:** Unsupervised ML, actionable insights for marketing strategies  
+- **GitHub Link:** [Clustering Project](your-repo-link)
+
+### 4️⃣ Generative AI Project – Coming soon......
+---
+
+## 📈 GitHub Stats
+
+![Your Name GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+
+---
+
+## 📫 Contact Me
+
+- **Email:** tarinijajoria04@gmail.com 
+- **LinkedIn:** (https://www.linkedin.com/in/tarini-jajoria-189180283/) 
+- **Portfolio:** comming soon
+
+---
+
+**“Turning data into insights, and AI into creativity.”** 💡
