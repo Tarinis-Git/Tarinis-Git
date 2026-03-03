@@ -31,14 +31,8 @@ I love exploring datasets, building ML models, and experimenting with **AI-gener
 - **GitHub Link:** [Clustering Project](your-repo-link)
 
 ### 4️⃣ Generative AI Project – Coming soon......
----
-
-## 📈 GitHub Stats
-
-![Your Name GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 ---
-
 ## 📫 Contact Me
 
 - **Email:** tarinijajoria04@gmail.com 
