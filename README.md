@@ -28,9 +28,15 @@ I love exploring datasets, building ML models, and experimenting with **AI-gener
 - **Description:** Segmented customers to identify patterns in buying behavior.  
 - **Tech:** Python, Pandas, scikit-learn, PCA  
 - **Highlights:** Unsupervised ML, actionable insights for marketing strategies  
-- **GitHub Link:** [Clustering Project](your-repo-link)
+- **GitHub Link:** [[Clustering Project](your-repo-link)](https://github.com/Tarinis-Git/Tarinis-Git/blob/main/zomatoReview.ipynb)
 
-### 4️⃣ Generative AI Project – Coming soon......
+### 4️⃣ Netflix Segmentation using Clustering
+- **Description:** Segmented customers to identify type of content recommendation
+- **Tech:** Python, Pandas, scikit-learn, PCA  
+- **Highlights:** Unsupervised ML, actionable insights for marketing strategies  
+- **GitHub Link:** [[Clustering Project](your-repo-link)](https://github.com/Tarinis-Git/Tarinis-Git/blob/main/zomatoReview.ipynb)
+
+### 5️⃣ Generative AI Project – Coming soon......
 
 ---
 ## 📫 Contact Me
